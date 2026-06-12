@@ -1,0 +1,30 @@
+========================================
+  REPORTE GLOBAL DE GESTION TECNOSTORE  
+  Generado: 2026-06-11T19:31:06.958619570
+========================================
+
+Total de ventas: $11.662.000
+
+Celulares vendidos por modelo:
+- xiaomi redmi note 15 pro: 9 unidades
+- Motorola A55: 1 unidades
+- Samsung Galaxy S23: 1 unidades
+
+Clientes con créditos pendientes:
+- Carlos Pérez → $2.500.000
+- María López → $1.200.000
+
+Stock actual:
+- xiaomi redmi note 15 pro: 0 unidades (ALERTA: bajo stock)
+- Huawei Y9s: 3 unidades (ALERTA: bajo stock)
+- Motorola A55: 4 unidades (ALERTA: bajo stock)
+- Samsung Galaxy A15: 4 unidades (ALERTA: bajo stock)
+- Xiaomi Redmi Note 12: 5 unidades
+- Iphone 15: 5 unidades
+- alcatel lc300: 6 unidades
+- Apple iPhone 14: 8 unidades
+- Samsung Galaxy S23: 9 unidades
+- Motorola Moto G54: 20 unidades
+========================================
+Reporte guardado en: src/reportes/reporte_global.txt
+========================================

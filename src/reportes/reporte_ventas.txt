@@ -1,0 +1,30 @@
+========================================
+        REPORTE DE VENTAS TECNOSTORE    
+========================================
+Venta ID : 1
+Cliente : María López
+Fecha   : 2026-06-11T19:32:33.312160408
+----------------------------------------
+ Celular : Motorola A55
+Cantidad : 1
+Subtotal : $4500000.0
+Total (IVA): $5355000.0
+========================================
+Venta ID : 2
+Cliente : Juan García
+Fecha   : 2026-06-11T19:32:33.441819707
+----------------------------------------
+ Celular : Samsung Galaxy S23
+Cantidad : 1
+Subtotal : $3500000.0
+Total (IVA): $4165000.0
+========================================
+Venta ID : 3
+Cliente : carlos
+Fecha   : 2026-06-11T19:32:33.562204233
+----------------------------------------
+ Celular : xiaomi redmi note 15 pro
+Cantidad : 9
+Subtotal : $1800000.0
+Total (IVA): $2142000.0
+========================================
